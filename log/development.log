@@ -1,0 +1,306 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:53:43) [GET]
+
+ActionController::RoutingError (No route matches "/js/jquery.js" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:53:43) [GET]
+
+ActionController::RoutingError (No route matches "/js/jc.js" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:53:43) [GET]
+
+ActionController::RoutingError (No route matches "/images/add.png" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:53:43) [GET]
+
+ActionController::RoutingError (No route matches "/images/photos_big.png" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:53:43) [GET]
+
+ActionController::RoutingError (No route matches "/css/style.css" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:53:43) [GET]
+
+ActionController::RoutingError (No route matches "/css/reset.css" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:53:43) [GET]
+
+ActionController::RoutingError (No route matches "/images/add.png" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:53:43) [GET]
+
+ActionController::RoutingError (No route matches "/images/photos_big.png" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:58:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jcarousel.min.js" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:58:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jcarousel.min.js" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:58:45) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jcarousel.min.js" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:58:45) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jcarousel.min.js" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:59:50) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jcarousel.min.js" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 20:59:51) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jcarousel.min.js" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 21:00:11) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jcarousel.min.js" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 21:00:11) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jcarousel.min.js" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 21:02:05) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/prev-horizontal.png" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-08 21:02:05) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/next-horizontal.png" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
