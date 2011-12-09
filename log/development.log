@@ -1800,3 +1800,20 @@ ActionController::RoutingError (No route matches "/images/5.jpg" with {:method=>
   /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
 
 Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-12-10 01:35:03) [GET]
+
+ActionController::RoutingError (No route matches "/images/3.jpg" with {:method=>:get}):
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:104:in `service'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/httpserver.rb:65:in `run'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:173:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:162:in `start_thread'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:95:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `each'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:92:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:23:in `start'
+  /Users/megha/.rvm/rubies/ree-1.8.7-2011.03/lib/ruby/1.8/webrick/server.rb:82:in `start'
+
+Rendering rescues/layout (not_found)
