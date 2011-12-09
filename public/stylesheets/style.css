@@ -29,11 +29,18 @@ body{
 #nav li{
 	float:left;
 }
+#nav li a{
+ display:block;
+ float:left;
+}
 #nav li#ourstory{
 	background: url('../images/ourstory.png') no-repeat left top;
 	text-indent:-99999em;
 	height:20px;
 	width:78px;
+}
+#nav li#ourstory a{
+ width: 78px;
 }
 #nav li#photos{
 	background: url('../images/photos.png') no-repeat left top;
@@ -43,6 +50,10 @@ body{
 	margin:0px 0 0 125px;
 	
 }
+#nav li#photos a{
+ width: 54px;
+}
+
 #nav li#when{
 	background: url('../images/when.png') no-repeat left top;
 	text-indent:-99999em;
@@ -50,6 +61,10 @@ body{
 	width:98px;
 	margin:-3px 0 0 277px;
 }
+#nav li#when a{
+ width: 98px;
+}
+
 #nav li#rsvp{
 	background: url('../images/rsvp.png') no-repeat left top;
 	text-indent:-99999em;
@@ -58,6 +73,10 @@ body{
 	margin:1px 0 0 122px;
 	
 }
+#nav li#rsvp a{
+ width: 36px;
+}
+
 #ourstory_content,#photos_content,#when_content{
 	width:791px;
 	margin: 0 auto;
@@ -72,6 +91,7 @@ body{
 #photos_content_heading{
 	background: url('../images/photos_big.png') no-repeat left top;
 	width:122px;
+    margin-bottom: 20px;
 }
 #when_content_heading{
     background: url('../images/when_big.png') no-repeat left top;
